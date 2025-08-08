@@ -1,1 +1,2 @@
 Some text.
+I am adding a new line to pulled down to the local repo.
